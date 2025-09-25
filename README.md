@@ -15,5 +15,4 @@ Lucid.bid will have everything that made lucid so popular,
 **Frequent updates**
 **Community listening**
 
-
-Enjoy using lucid.bid!
+weird writing again because i just copied this from the discord lol

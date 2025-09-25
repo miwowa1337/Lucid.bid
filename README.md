@@ -1,6 +1,19 @@
 # Lucid.bid
 
-Lucid.bid (formerly lucid.lua) is a 2 year old da hood script originally created by Spheruz and CheatSphere
-Eventually the script was phased out and stopped updating.
-The scripts name was bought and most links to it, and now the script is under the control of Miwowa.
-Lucid.bid does not reuse code from lucid.lua.
+Lucid.bid is a full revive and improvement of the script Lucid.lua, which lasted from early 2025 to late 2025.
+
+Lucid.bid and Lucid.lua are related but are not the same script and do not use the same code
+Lucid.lua was coded by Spheruz and lucid.bid is coded by Miwowa. **Lucid.bid does not and will not reuse code from lucid.lua.**
+The lucid.lua name was fully given with permission from **CSphere and Spheruz**.
+
+Lucid.bid will have everything that made lucid so popular,
+**Transparency**
+**No premiums, nobody has admin commands to kick you, not even the developers.**
+**Honesty**
+**Free**
+**Ease of use**
+**Frequent updates**
+**Community listening**
+
+
+Enjoy using lucid.bid!

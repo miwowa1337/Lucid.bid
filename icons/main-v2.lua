@@ -7,9 +7,9 @@ local IconModule = {
     IconThemeTag = nil,  
       
     Icons = {  
-        ["lucide"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/lucide/dist/Icons.lua"))(),  
-        ["craft"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/craft/dist/Icons.lua"))(),  
-        ["geist"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/geist/dist/Icons.lua"))(),  
+        ["lucide"] = loadstring(game:HttpGetAsync("https://github.com/miwowa1337/Lucid.bid/raw/refs/heads/main/icons/lucide"))(),  
+        ["craft"] = loadstring(game:HttpGetAsync("https://github.com/miwowa1337/Lucid.bid/raw/refs/heads/main/icons/craft"))(),  
+        ["geist"] = loadstring(game:HttpGetAsync("https://github.com/miwowa1337/Lucid.bid/raw/refs/heads/main/icons/geist"))(),  
     },
 }  
   

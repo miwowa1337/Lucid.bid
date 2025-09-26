@@ -1,5 +1,3 @@
--- This is a new version   
-  
 local IconModule = {  
     IconsType = "lucide",  
       
